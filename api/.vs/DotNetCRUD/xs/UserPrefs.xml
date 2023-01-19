@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9495BBF8-8297-4377-A4EA-1C2A3F397F27}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="creatingTables.sql">
+    <Files>
+      <File FileName="Models/Capital.cs" />
+      <File FileName="Services/DbService.cs" />
+      <File FileName="Services/IDbService.cs" />
+      <File FileName="Services/CapitalService.cs" Line="57" Column="2" />
+      <File FileName="Services/ICapitalService.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="creatingTables.sql" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetCRUD" expanded="True">
+            <Node name="DotNetCRUD" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="creatingTables.sql" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DotNetCRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
